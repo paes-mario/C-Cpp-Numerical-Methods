@@ -39,7 +39,9 @@ int main() {
 
         std::cout << 'a' << count+1 << ": "
         << ndd[count] << " " << std::endl;
+        
     }
+    
     return 0;
 
 }
