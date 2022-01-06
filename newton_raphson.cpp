@@ -1,4 +1,4 @@
-/* finding root for p(x)=x^3-x-1 polynomial
+/* finding a root for p(x)=x^3-x-1 polynomial
 using Newton-Raphson Method */
 
 #include <iostream>
