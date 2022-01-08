@@ -30,7 +30,7 @@ int main() {
     } while(fabs(p(m))>tol);
 
     //printing result
-    printf("The root of the polynomial is: %lf\n", m);
+    printf("The root of the polynomial is: %f\n", m);
     printf("The number of interations is: %d", iterations);
 
     return 0;    
