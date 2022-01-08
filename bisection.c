@@ -38,8 +38,7 @@ int main() {
 
 //defining polynomial
 double p(double x) {
-    double res = pow(x,3)-x-1;
-    return res;
+    return pow(x,3)-x-1;
 }
 
 /*Output:
