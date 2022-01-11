@@ -8,7 +8,7 @@ the data points (-1, 3), (0, 1), (1, 3), (3, 43)
 
 #include <iostream>
 
-int main() {
+int main(void) {
     //x and y array of data points
     int x[4] = { -1, 0, 1, 3};
     int y[4] = { 3, 1, 3, 43};
